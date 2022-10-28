@@ -26,12 +26,12 @@
 
 <p align="center">
     <a href="https://github.com/arafathJR/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=JsArafath&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=arafathJR&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <br>
-<p align="center"> <a href="https://github.com/arafathJR/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JsArafath&row=1&column=6&theme=onedark" alt="arafathJR" /></a> </p>
+<p align="center"> <a href="https://github.com/arafathJR/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafathJR&row=1&column=6&theme=onedark" alt="arafathJR" /></a> </p>
 
 
 <br> 
@@ -61,12 +61,12 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/arafathJR/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=JsArafath&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/arafathJR/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsArafath&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/arafathJR/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=arafathJR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/arafathJR/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathJR&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <br>
 
-<a href="https://github.com/arafathJR/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=JsArafath&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/arafathJR/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=arafathJR&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
